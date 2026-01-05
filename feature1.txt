@@ -1,2 +1,3 @@
 feature 1 done +bug fix
 feature 2 done
+bugfix 2
